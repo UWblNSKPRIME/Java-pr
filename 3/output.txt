@@ -1,0 +1,14 @@
+Part 1
+New York - avg age: 30.0
+London - avg age: 25.0
+Paris - avg age: 35.0
+Tokyo - avg age: 28.0
+Berlin - avg age: 32.0
+Part 2
+Set 1
+New York - avg age: 30.0
+London - avg age: 25.0
+Set 2
+Paris - avg age: 35.0
+Tokyo - avg age: 28.0
+Berlin - avg age: 32.0
